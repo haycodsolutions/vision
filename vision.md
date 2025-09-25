@@ -34,7 +34,7 @@ flowchart TD
 
     %% Scaling
     subgraph Scaling
-        E1[Global Expansion]
+        E1[Expansion]
         E2[Metaverse Integration]
         E3[HayCod Custom Frameworks]
     end
