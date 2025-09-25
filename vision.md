@@ -12,18 +12,9 @@ Our mission is to **simplify workflows, create immersive digital experiences, an
 ```mermaid
 flowchart TD
 
-    A[HayCod Founded] --> B[Foundation Stage]
-    B --> C[Service Development]
+    A[HayCod Founded] --> C[Service Development]
     C --> D[Growth]
     D --> E[Scaling]
-
-    %% Foundation
-    subgraph Foundation
-        B1[Infra: GitHub, Slack, Notion]
-        B2[Website + Branding]
-        B3[Team Building]
-    end
-    B --> B1 & B2 & B3
 
     %% Service Development
     subgraph Service Development
